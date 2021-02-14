@@ -7,7 +7,7 @@ The basics of Kotlin for android by Google Android Developers
 
 #### Disclamer: All of the materials are from the Android developer website.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Unit 1: Kotlin basics for Android {Notes}
 
 [Introduction to Kotlin](intro-notes.md)
