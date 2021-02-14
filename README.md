@@ -10,8 +10,8 @@ Note: Before reading the answers of the quizzes, please do go through the course
 
 [Introduction to Kotlin](intro-quiz.md) 
 
-[Create your first Android app](Kotlin-basics-Android-/firstandroidapp-quiz.md)
+[Create your first Android app](firstandroidapp-quiz.md)
 
-[Build a basic layout](Kotlin-basics-Android-/basiclayout-quiz.md)
+[Build a basic layout](basiclayout-quiz.md)
 
-[Add a button to an app](Kotlin-basics-Android-/addbutton-quiz.md)
+[Add a button to an app](addbutton-quiz.md)
