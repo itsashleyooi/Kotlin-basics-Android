@@ -15,8 +15,7 @@
 - A loop is an instruction to repeat instructions multiple times. A `repeat()` statement is an example of a loop.
 - You can nest loops, that is, put loops within loops. For example, you can create a `repeat()` statement within a `repeat()` statement to print a symbol a number of times for a number of rows, like you did for the cake layers.
 
-#### Summary of using function arguments: 
-To use arguments with a function, you need to do three things:
+**Summary of using function arguments:** To use arguments with a function, you need to do three things:
 
 - Add the argument and type to the function definition: `printBorder(border: String)`
 - Use the argument inside the function: `println(border)`
