@@ -1,4 +1,4 @@
-Rolling a dice 
+# Rolling a dice 
 ```
 fun main() {
     val myFirstDice = Dice(6)
