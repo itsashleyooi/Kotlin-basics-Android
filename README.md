@@ -12,19 +12,19 @@ The basics of Kotlin for android by Google Android Developers.
 
 [Introduction to Kotlin](notes/intro-notes.md)
 
-[Create your first Android app](firstandroidapp-notes.md)
+[Create your first Android app](notes/firstandroidapp-notes.md)
 
-[Build a basic layout](basiclayout-notes.md)
+[Build a basic layout](notes/basiclayout-notes.md)
 
-[Add a button to an app](addbutton-notes.md)
+[Add a button to an app](notes/addbutton-notes.md)
 
 
 #### Unit 1: Kotlin basics for Android {Quizzes}
 
-[Introduction to Kotlin](intro-quiz.md) 
+[Introduction to Kotlin](quizzes/intro-quiz.md) 
 
-[Create your first Android app](firstandroidapp-quiz.md)
+[Create your first Android app](quizzes/firstandroidapp-quiz.md)
 
-[Build a basic layout](basiclayout-quiz.md)
+[Build a basic layout](quizzes/basiclayout-quiz.md)
 
-[Add a button to an app](addbutton-quiz.md)
+[Add a button to an app](quizzes/addbutton-quiz.md)
