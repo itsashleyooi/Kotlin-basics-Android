@@ -12,7 +12,7 @@ Note: You can use the AVD manager to create a virtual device (an emulator). The 
 #### Q2. Fill-in-the-blanks
 *Enter one or more words to complete the sentence.*
 
-A `click` `handler` is a method that is invoked each time the user clicks or taps on cickable UI element, such as a button. 
+A `click handler` is a method that is invoked each time the user clicks or taps on cickable UI element, such as a button. 
 
 #### Q3. What parameter specifies the Android API level that Gradle should use to complie your app?
 
@@ -67,12 +67,12 @@ Note: Think of a fragment as a modular section of an activity, like a sub-activi
 #### Q9. Fill-in-the-blanks
 *Enter one or more words to complete the sentence.*
 
-The `action``bar` is a dedicated space for app branding and identity.
+The `action bar` is a dedicated space for app branding and identity.
 
 #### Q10. Fill-in-the-blanks
 *Enter one or more words to complete the sentence.*
 
-The `Safe``Args` plugin of the Navigation component makes passing parameters between fragments safer. 
+The `Safe Args` plugin of the Navigation component makes passing parameters between fragments safer. 
 
 #### Q11. Which of the following are methods in the activity and fragment lifecycles? Slelect all that apply. 
 *Choose as many answers as you see fit.*
