@@ -28,3 +28,9 @@ The basics of Kotlin for android by Google Android Developers.
 [Build a basic layout](quizzes/basiclayout-quiz.md)
 
 [Add a button to an app](quizzes/addbutton-quiz.md)
+
+
+#### Others
+[Android Kotlin fundamentals quiz](quizzes/Others/fundamentals-quiz.md)
+
+[Kotlin Fundamentals: Build Your First App Quiz](quizzes/Others/build-quiz.md)
