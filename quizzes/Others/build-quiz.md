@@ -3,7 +3,7 @@
 #### Q1. Fill-in-the-blanks
 *Enter one or more words to complete the sentence.*
 
-`Android``Studio` is an integrated development environment or IDE used for building Android apps.
+`Android Studio` is an integrated development environment or IDE used for building Android apps.
 
 #### Q2. What is the name of the auto-generated layout file in the new project you created with Android Studio?
 
